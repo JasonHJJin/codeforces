@@ -1,0 +1,3 @@
+/Users/jasonjin/CLionProjects/codeforces/cmake-build-debug/CMakeFiles/Competitive_Programming.dir
+/Users/jasonjin/CLionProjects/codeforces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jasonjin/CLionProjects/codeforces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
